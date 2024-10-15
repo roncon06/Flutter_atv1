@@ -1,0 +1,33 @@
+{
+    "clientes": [
+        {
+            "id:": 10,
+            "nome": "joaqueim",
+            "email": "joaquim@gmail.com"
+        },
+        {
+            "id:": 11,
+            "nome": "lucas",
+            "email": "lucas@gmail.com"
+        }
+    ],
+    "contas": [
+        {
+            "id": 10,
+            "cliente_id": 10,
+            "conta": 5555
+        }
+    ],
+    "transacoes": [
+        {
+            "id": 1,
+            "valor": 250.0,
+            "tipo": "credito"
+        },
+        {
+            "id": 2,
+            "valor": 250.0,
+            "tipo": "debito"
+        }
+    ]
+}
